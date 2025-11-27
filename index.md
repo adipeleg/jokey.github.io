@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -131,7 +130,7 @@
       text-decoration: underline;
     }
 
-    .highlight {
+    .highlight-text {
       color: #e5e7eb;
       font-weight: 500;
     }
@@ -160,7 +159,7 @@
         🔒 Privacy Policy
       </div>
       <h1>Jocky – Privacy Policy</h1>
-      <p><span class="highlight">Last updated:</span> November 27, 2025</p>
+      <p><span class="highlight-text">Last updated:</span> November 27, 2025</p>
       <p>
         This Privacy Policy explains how Jocky (“we”, “us”, or “our”) collects,
         uses, discloses, and protects your information when you use the Jocky
@@ -186,17 +185,17 @@
         <p>We may collect the following information that you provide to us:</p>
         <ul>
           <li>
-            <span class="highlight">Account Information:</span> such as username,
+            <span class="highlight-text">Account Information:</span> such as username,
             email address, profile details, and any other information you choose
             to provide when creating or updating your account.
           </li>
           <li>
-            <span class="highlight">User-Generated Content:</span> including
+            <span class="highlight-text">User-Generated Content:</span> including
             videos, images, text posts, challenges, votes, comments, reactions,
             and any other content you upload, submit, or create within the App.
           </li>
           <li>
-            <span class="highlight">Communications:</span> information you provide
+            <span class="highlight-text">Communications:</span> information you provide
             when you contact us for support, feedback, or other inquiries.
           </li>
         </ul>
@@ -208,17 +207,17 @@
         </p>
         <ul>
           <li>
-            <span class="highlight">Device Information:</span> device model,
+            <span class="highlight-text">Device Information:</span> device model,
             operating system and version, unique device identifiers, language, and
             mobile network information.
           </li>
           <li>
-            <span class="highlight">Usage Data:</span> in-app activity, such as
+            <span class="highlight-text">Usage Data:</span> in-app activity, such as
             screens viewed, time spent in the App, features used, battle
             participation, interactions with content, and other diagnostic data.
           </li>
           <li>
-            <span class="highlight">Log and Technical Data:</span> IP address,
+            <span class="highlight-text">Log and Technical Data:</span> IP address,
             timestamps, crash reports, performance data, and configuration data.
           </li>
         </ul>
@@ -236,32 +235,32 @@
         <p>We use the information we collect for the following purposes:</p>
         <ul>
           <li>
-            <span class="highlight">To Provide and Maintain the Services:</span>
+            <span class="highlight-text">To Provide and Maintain the Services:</span>
             including enabling battles, challenges, content creation, voting, and
             user profiles.
           </li>
           <li>
-            <span class="highlight">To Improve and Personalize the App:</span>
+            <span class="highlight-text">To Improve and Personalize the App:</span>
             analyzing usage and trends to enhance features, user experience, and
             performance.
           </li>
           <li>
-            <span class="highlight">To Ensure Safety and Integrity:</span> detect,
+            <span class="highlight-text">To Ensure Safety and Integrity:</span> detect,
             prevent, and address fraud, abuse, spam, and other harmful or
             unauthorized activity.
           </li>
           <li>
-            <span class="highlight">To Communicate With You:</span> respond to
+            <span class="highlight-text">To Communicate With You:</span> respond to
             your requests, provide support, send important updates, and notify you
             about changes to the App or this Policy.
           </li>
           <li>
-            <span class="highlight">To Comply With Legal Obligations:</span>
+            <span class="highlight-text">To Comply With Legal Obligations:</span>
             enforce our terms, comply with applicable laws, and cooperate with law
             enforcement where required.
           </li>
           <li>
-            <span class="highlight">To Develop New Features:</span> use aggregated
+            <span class="highlight-text">To Develop New Features:</span> use aggregated
             and anonymized data to research, test, and improve existing features
             or create new ones.
           </li>
@@ -280,22 +279,22 @@
         </p>
         <ul>
           <li>
-            <span class="highlight">Consent:</span> where you have given your
+            <span class="highlight-text">Consent:</span> where you have given your
             explicit consent for a specific purpose.
           </li>
           <li>
-            <span class="highlight">Contract:</span> where processing is necessary
+            <span class="highlight-text">Contract:</span> where processing is necessary
             to provide the Services and fulfill our obligations under our
             agreement with you.
           </li>
           <li>
-            <span class="highlight">Legitimate Interests:</span> such as improving
+            <span class="highlight-text">Legitimate Interests:</span> such as improving
             the App, ensuring security, preventing fraud, and enhancing the user
             experience, provided these interests are not overridden by your rights
             and interests.
           </li>
           <li>
-            <span class="highlight">Legal Obligations:</span> where processing is
+            <span class="highlight-text">Legal Obligations:</span> where processing is
             required to comply with applicable laws.
           </li>
         </ul>
@@ -351,29 +350,29 @@
         </p>
         <ul>
           <li>
-            <span class="highlight">Access:</span> the right to request a copy of
+            <span class="highlight-text">Access:</span> the right to request a copy of
             the personal information we hold about you.
           </li>
           <li>
-            <span class="highlight">Correction:</span> the right to request that we
+            <span class="highlight-text">Correction:</span> the right to request that we
             correct inaccurate or incomplete information.
           </li>
           <li>
-            <span class="highlight">Deletion:</span> the right to request deletion
+            <span class="highlight-text">Deletion:</span> the right to request deletion
             of your personal information, subject to legal or legitimate retention
             requirements.
           </li>
           <li>
-            <span class="highlight">Restriction:</span> the right to request
+            <span class="highlight-text">Restriction:</span> the right to request
             restriction of processing under certain circumstances.
           </li>
           <li>
-            <span class="highlight">Data Portability:</span> the right to request
+            <span class="highlight-text">Data Portability:</span> the right to request
             a copy of your data in a structured, commonly used, and
             machine-readable format where technically feasible.
           </li>
           <li>
-            <span class="highlight">Withdraw Consent:</span> where we rely on
+            <span class="highlight-text">Withdraw Consent:</span> where we rely on
             consent, you may withdraw it at any time without affecting the
             lawfulness of processing before withdrawal.
           </li>
