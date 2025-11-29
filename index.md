@@ -1,11 +1,11 @@
 ---
-title: Jocky – Privacy Policy
+title: Jokey – Privacy Policy
 ---
 
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Jocky – Privacy Policy</title>
+  <title>Jokey – Privacy Policy</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
     :root {
@@ -162,11 +162,11 @@ title: Jocky – Privacy Policy
       <div class="pill">
         🔒 Privacy Policy
       </div>
-      <h1>Jocky – Privacy Policy</h1>
+      <h1>Jokey – Privacy Policy</h1>
       <p><span class="highlight-text">Last updated:</span> November 27, 2025</p>
       <p>
-        This Privacy Policy explains how Jocky (“we”, “us”, or “our”) collects,
-        uses, discloses, and protects your information when you use the Jocky
+        This Privacy Policy explains how Jokey (“we”, “us”, or “our”) collects,
+        uses, discloses, and protects your information when you use the Jokey
         mobile application (the “App”) and any related services (the “Services”).
       </p>
     </header>
@@ -175,7 +175,7 @@ title: Jocky – Privacy Policy
       <section>
         <h2>1. Introduction</h2>
         <p>
-          By accessing or using Jocky, you agree to the collection and use of
+          By accessing or using Jokey, you agree to the collection and use of
           information in accordance with this Privacy Policy. If you do not agree
           with any part of this Policy, you should stop using the App and Services
           immediately.
@@ -488,7 +488,7 @@ title: Jocky – Privacy Policy
       </section>
 
       <div class="footer-note">
-        Jocky &copy; <span id="year"></span>. All rights reserved.
+        Jokey &copy; <span id="year"></span>. All rights reserved.
       </div>
     </main>
   </div>
